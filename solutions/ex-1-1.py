@@ -22,6 +22,6 @@ print(f"[ii] {final}")
 
 print("\nb)")
 
-usr_input = input("please enter a number...")
-print(f"[i] cube: {pow(int(usr_input), 3)}, square: {math.pow(int(usr_input), 2)}")
+input_num = input("please enter a number...")
+print(f"[i] cube: {pow(int(input_num), 3)}, square: {math.pow(int(input_num), 2)}")
 
